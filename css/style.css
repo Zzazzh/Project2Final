@@ -1,0 +1,151 @@
+ .nav-link:hover,
+ .nav-item:hover {
+     color: rgb(239, 137, 86) !important;
+ }
+
+ .img-wrap {
+     max-width: 100%;
+     max-height: 100%;
+ }
+
+ .imgheader {
+     overflow: hidden;
+     width: auto;
+     max-height: 100%;
+ }
+
+ .img-wrap {
+     margin: 0 0px;
+     text-align: center;
+ }
+
+ .navbar {
+     position: sticky;
+     top: 0;
+     width: 100%;
+     font-family: 'Libre Bodoni', serif;
+     font-weight: 400;
+     z-index: 9;
+     border: 20vh;
+ }
+
+ body {
+     background-color: #212529;
+     color: white;
+ }
+
+ .rows {
+     height: 100vh;
+ }
+
+ .form-control {
+     display: block;
+     width: 100%;
+     min-height: calc(1.5em + .75rem + 2px);
+     padding: .575rem .75rem;
+     font-size: 1rem;
+     font-weight: 400;
+     line-height: 1.5;
+     color: #495057;
+     background-color: #fff;
+     background-clip: padding-box;
+     border: 1px solid #ced4da;
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     border-radius: 52px;
+     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+ }
+
+ .card {
+     padding: 20px;
+     background-color: #eee;
+     padding-bottom: 50px;
+     padding-top: 50px;
+ }
+
+ .form-control:focus {
+     color: #495057;
+     background-color: #fff;
+     border-color: rgb(239, 137, 86);
+     outline: 0;
+     box-shadow: none;
+ }
+
+ .border-rad {
+     border-top-right-radius: 28px;
+     border-bottom-right-radius: 28px;
+     color: #fff;
+     background-color: rgb(239, 137, 86);
+     border-color: rgb(239, 137, 86);
+ }
+
+ #page6 {
+     background-color: #212529;
+     color: white;
+     padding: 3.5%;
+     border: 10% 5%;
+ }
+
+ #page2 {
+     background-color: white;
+     padding: 3.5%;
+     border: 10% 5%;
+     color: black;
+ }
+
+ #page3 {
+     background-color: #212529;
+     color: white;
+     padding: 3.5%;
+     border: 10% 5%;
+ }
+
+ #page4 {
+     background-color: white;
+     padding: 3.5%;
+     border: 10% 5%;
+     color: black;
+ }
+
+ #page5 {
+     color: black;
+ }
+
+ h1 {
+     font-family: 'Libre Bodoni', serif;
+     font-weight: 700;
+ }
+
+ .cover {
+     max-height: 45vh;
+     max-width: 45vw;
+ }
+
+ .cover:hover {
+     transform: scale(1.15);
+     box-shadow: black;
+ }
+
+ ::placeholder {
+     font-style: italic;
+     font-family: 'Libre Bodoni', serif;
+     font-weight: 400;
+ }
+#page7 {
+     background-color: white;
+     color: black;
+     padding: 1% 47%;
+ }
+
+ .fa {
+  text-align: center;
+  object-position: center;
+  text-decoration: none;
+  color: #242424;
+  padding: 0% 2%;
+}
+.fa:hover {
+  opacity: 0.7;
+  color: rgb(239, 137, 86);
+}
